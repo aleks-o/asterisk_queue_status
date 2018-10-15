@@ -22,3 +22,6 @@ Cron example:
 
     /usr/sbin/asterisk -rx 'queue reset stats'
 
+
+![](https://github.com/aleks-o/asterisk_queue_status/raw/master/img/ast1.png)
+
