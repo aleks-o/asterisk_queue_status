@@ -10,7 +10,7 @@ and
 
 https://sysadminman.net/blog/2013/asterisk-freepbx-queue-and-agent-wallboard-4933
 
-##Prereqruisites
+## Prereqruisites
 
 * Uses PHPAGI to query Asterisk, so this needs installing first – http://phpagi.sourceforge.net/
 * Written against the output of Asterisk 11.25.0 and tested with it
@@ -19,5 +19,4 @@ https://sysadminman.net/blog/2013/asterisk-freepbx-queue-and-agent-wallboard-493
 Cron example:
 
     /usr/sbin/asterisk -rx 'queue reset stats'
-
 
