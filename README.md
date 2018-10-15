@@ -10,6 +10,8 @@ and
 
 https://sysadminman.net/blog/2013/asterisk-freepbx-queue-and-agent-wallboard-4933
 
+Translated to russian and adapted for Asterisk 11.25.0
+
 ## Prereqruisites
 
 * Uses PHPAGI to query Asterisk, so this needs installing first – http://phpagi.sourceforge.net/
